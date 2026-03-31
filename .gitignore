@@ -1,1 +1,4 @@
-*node_modules
+node_modules/
+.gitignore
+
+//now i have shifted to using mongoose and made authcontroller using mongoose and changed things in my mongoose
